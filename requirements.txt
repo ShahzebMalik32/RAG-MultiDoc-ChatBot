@@ -1,0 +1,8 @@
+langchain
+langchain_huggingface
+sentence-transformers
+scikit-learn
+llama-index
+huggingface_hub
+numpy
+gradio
